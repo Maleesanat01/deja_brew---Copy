@@ -1,0 +1,119 @@
+{
+    "coldWeatherSuggestions": [
+        {
+            "name": "Machiato",
+            "price": "2.75",
+            "imagePath": "assets/images/machiato.jpg",
+            "description": "Bold, Espresso, Layered"
+        },
+
+        {
+            "name": "Latte",
+            "price": "3.25",
+            "imagePath": "assets/images/latte.jpeg",
+            "description": "Creamy & Steamed"
+  
+        },
+        
+        {
+            "name": "Mocha",
+            "price": "3.50",
+            "imagePath": "assets/images/mocha.jpg",
+            "description": "Mochalicious & Frothy"
+  
+        },
+
+        {
+            "name": "Cappuccino",
+            "price": "3.75",
+            "imagePath": "assets/images/cappuccino.jpg",
+            "description": "Rich, Frothy, Espresso"
+        },
+        {
+            "name": "Espresso",
+            "price": "2.99",
+            "imagePath": "assets/images/espresso.jpg",
+            "description": "Intense, Bold, Robust"
+  
+        },
+        {
+            "name": "Black Coffee",
+            "price": "2.50",
+            "imagePath": "assets/images/black_coffee.jpg",
+            "description": "Strong, Simple, Robust"
+  
+        }
+      ],
+
+      "hotWeatherSuggestions": [
+        {
+            "name": "Iced Coffee",
+            "price": "3.99",
+            "imagePath": "assets/images/iced_coffee.jpg",
+            "description": "Chilled Coffee"
+        },
+        {
+            "name": "Iced Americano",
+            "price": "4.49",
+            "imagePath": "assets/images/iced_americano.jpg",
+            "description": "Chilled Espresso Blend"
+  
+        },
+        {
+            "name": "Frappuccino",
+            "price": "5.99",
+            "imagePath": "assets/images/frappuccino.jpg",
+            "description": "Frosty Indulgence"
+  
+        },
+        {
+            "name": "Cold Brew",
+            "price": "6.99",
+            "imagePath": "assets/images/cold_brew.jpg",
+            "description": "Smooth Bold Elixir"
+  
+        }
+      ],
+      "mildWeatherSuggestions": [
+        {
+            "name": "Caramel Cheesecake",
+            "price": "3.99",
+            "imagePath": "assets/images/caramel_cheesecake.jpg",
+            "description": "Sweet Caramel Infusion"
+
+        },
+        {
+            "name": "Brownie",
+            "price": "4.49",
+            "imagePath": "assets/images/brownie.jpg",
+            "description": "Fudgy Chocolate Bliss"
+       
+        },
+        {
+            "name": "Cookies",
+            "price": "5.99",
+            "imagePath": "assets/images/cookies.jpg",
+            "description": "Crispy Sweet Delight"
+       
+        },
+        {
+            "name": "Lava Cake",
+            "price": "6.99",
+            "imagePath": "assets/images/lava_cake1.jpg",
+            "description": "Chocolate Delight"
+       
+        },
+        {
+            "name": "Red Velvet",
+            "price": "6.99",
+            "imagePath": "assets/images/red_velvet.jpg",
+            "description": "Rich indulgence"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "6.99",
+            "imagePath": "assets/images/tiramisu.jpg",
+            "description": "Coffee-infused Delight"
+        }
+      ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725917311869",
+    "project_id": "deja-brew-e7a8d",
+    "storage_bucket": "deja-brew-e7a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725917311869:android:f4f600bffc3665a9e2a214",
+        "android_client_info": {
+          "package_name": "com.example.cafe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOF-XgeEgJFQ4l8nuAIpPCa6gW1Scol-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
